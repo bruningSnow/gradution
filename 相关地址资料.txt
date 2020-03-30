@@ -1,3 +1,4 @@
+正式地址：https://mall.zhaobi.xyz/home
 测试地址：https://testmall.worldtradebase.com/
 充币地址：http://114.55.11.139:1158/v1/test2/make-money?uid=1&currency=CCNY&amount=1000000
 接口地址：http://172.16.100.33:8080/swagger-ui.html
